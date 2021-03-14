@@ -14,9 +14,7 @@ This is a little tvOS app I wrote to better understand network calls in Swift. T
 
 ---
 
-#### HeyBurrito!
-<img src="https://github.com/travisbrigman/travisbrigman/blob/main/react-brands.svg" width="100" height="100">
-[[https://github.com/travisbrigman/travisbrigman/blob/main/react-brands.svg|width=50px]]
+#### HeyBurrito! <img src="https://github.com/travisbrigman/travisbrigman/blob/main/react-brands.svg" width="50" height="50">
 
 This is the capstone project I did for my client-side learning at Nashville Software School. So it was my first foray into React. The idea was to create a way for my favorite burrito shop in town to take online orders. So a user can build an order and send it to the queue. From there an employee view allows a person to manage the queue and e-mail items (presumably to a printer). As said, the app was written in React using the Grommet CSS-in-JS framework. The backend is just a little JSON sever file.
 
