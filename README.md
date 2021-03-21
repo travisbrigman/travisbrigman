@@ -4,6 +4,8 @@ I'm Travis, a full stack web and native iOS developer from Nashville 🤠, TN US
 
 I'm passionate about software creating better experiences for everyone in this world. I love building well thought out, well designed, intuitive and beautiful experiences for people. This makes me a tinkerer at heart who loves to play with things and constantly iterate. This is probably why I am also a certified scrum master.
 
+Find me on [LinkedIn](https://www.linkedin.com/in/travisrbrigman/)
+
 ---
 
 ### Projects I Am Proud Of:
